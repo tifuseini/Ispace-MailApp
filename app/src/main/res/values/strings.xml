@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MailApp(Ispace)</string>
+    <string name="sender">From</string>
+    <string name="recipient">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="sendButton">Send</string>
+</resources>
